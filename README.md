@@ -1,7 +1,3 @@
-Here's a **professional and detailed GitHub README** incorporating all the materials you have:  
-
----
-
 ### **📌 SIM Tracer - Phone Number Tracker & WhatsApp Notifier**  
 
 A Python-based **SIM Tracer** that extracts **location, service provider, and geographic coordinates** of a phone number. The location details are automatically **sent via WhatsApp Web** to a predefined recipient.  
@@ -39,7 +35,7 @@ A Python-based **SIM Tracer** that extracts **location, service provider, and ge
 
 ### **🎥 Full Execution Recording:**  
 _A screen recording showing the script running from execution to WhatsApp message delivery._  
-📌 ****  
+📌 https://github.com/user-attachments/assets/76d94901-271d-4cc7-80a1-35667f522193  
 
 ### **📍 Traced Location Preview:**  
 _A screenshot showing the location opened in Google Chrome._  
