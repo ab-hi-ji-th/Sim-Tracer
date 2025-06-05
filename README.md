@@ -2,7 +2,7 @@
 
 A Python-based **SIM Tracer** that extracts **location, service provider, and geographic coordinates** of a phone number. The location details are automatically **sent via WhatsApp Web** to a predefined recipient.  
 
----
+--- 
 
 ## **🚀 Features**  
 
