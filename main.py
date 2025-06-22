@@ -1,7 +1,7 @@
 import phonenumbers
 import folium
 import pywhatkit as kit 
-import time
+import time 
 import webbrowser
 from phonenumbers import geocoder, carrier
 from opencage.geocoder import OpenCageGeocode
